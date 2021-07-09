@@ -1,0 +1,17 @@
+{
+  "name": "alien-shooter-rpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ekoen",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "ini": "^2.0.0",
+    "mainloop.js": "^1.0.4",
+    "ps-node": "^0.1.6"
+  }
+}
