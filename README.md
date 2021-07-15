@@ -1,6 +1,8 @@
 # AlienShooter-RPC
 Discord Rich Presence for Alien Shooter (STEAM VERSION). I made this for one of my favorite games and i planning to do with all aliens shooters.
 DISCLAIMER: This is a own proyect without license of SIGMA-TEAM.
+### Error with save names
+If you can put your own "username" in the game, change the [FILE.CAMPAIGN.PlayerScores](https://github.com/neopkr/AlienShooter-RPC/blob/5786b9d31b336c21766225aad7659b4f12eae6fd/src/rpc.js#L47) and [FILE.CAMPAIGN.PlayerMoney](https://github.com/neopkr/AlienShooter-RPC/blob/5786b9d31b336c21766225aad7659b4f12eae6fd/src/rpc.js#L48) to your username. (Change 'CAMPAIGN' :P)
 # For NO-STEAM users
 In rpc.js more especific:
 ```sh
